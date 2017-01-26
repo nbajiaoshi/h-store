@@ -12,8 +12,8 @@ import org.voltdb.types.TimestampType;
 
 import edu.brown.logging.LoggerUtil;
 import edu.brown.logging.LoggerUtil.LoggerBoolean;
-import edu.mit.benchmark.b2w.B2WConstants;
-import edu.mit.benchmark.b2w.B2WUtil;
+import edu.mit.benchmark.b2w_sku_key.B2WConstants;
+import edu.mit.benchmark.b2w_sku_key.B2WUtil;
 
 @ProcInfo(
         partitionInfo = "CART.partition_key: 0",

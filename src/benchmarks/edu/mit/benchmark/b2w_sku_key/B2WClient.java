@@ -22,7 +22,7 @@ import edu.brown.api.ControlState;
 import edu.brown.logging.LoggerUtil;
 import edu.brown.logging.LoggerUtil.LoggerBoolean;
 import edu.brown.utils.ThreadUtil;
-import static edu.mit.benchmark.b2w.B2WLoader.hashPartition;
+import static edu.mit.benchmark.b2w_sku_key.B2WLoader.hashPartition;
 
 public class B2WClient extends BenchmarkComponent {
     private static final Logger LOG = Logger.getLogger(B2WClient.class);

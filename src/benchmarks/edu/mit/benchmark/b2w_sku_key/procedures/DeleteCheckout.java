@@ -5,7 +5,7 @@ import org.voltdb.SQLStmt;
 import org.voltdb.VoltProcedure;
 import org.voltdb.VoltTable;
 
-import edu.mit.benchmark.b2w.B2WUtil;
+import edu.mit.benchmark.b2w_sku_key.B2WUtil;
 
 @ProcInfo(
         partitionInfo = "CHECKOUT.partition_key: 0",
